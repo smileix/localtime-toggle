@@ -2,7 +2,7 @@
 
 ## 设定一：将BIOS时间当做本地时间而非UTC时间
 ### MacOS：
-####方法一：直接运行
+#### 方法一：直接运行
 ```
 sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/maxlike/localtime-toggle/main/fix_time_osx.sh)"
 ```
