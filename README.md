@@ -5,6 +5,6 @@ sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/maxlike/localtime-tog
 ```
 方法二：先下载到本地再运行
 ```
-curl https://raw.githubusercontent.com/smileix/localtime-toggle/main/fix_time_osx.sh
+wget https://raw.githubusercontent.com/smileix/localtime-toggle/main/fix_time_osx.sh
 sudo sh fix_time_osx.sh
 ```
